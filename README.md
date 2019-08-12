@@ -5,4 +5,4 @@ This repo tracks the Application IDs that have been observed in the wild in Azur
 
 If you know what someone of the unknown IDs map to or have your own to contribute please submit a PR!
 
-Shoutout to @prolsen and https://github.com/prolsen/o365 for great work in enumerating many of the Microsoft Services Application IDs.
+Shoutout to @prolsen and https://github.com/prolsen/o365 for great work in enumerating many of these Application IDs!

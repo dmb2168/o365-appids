@@ -52,7 +52,7 @@
 |96231a05-34ce-4eb4-aa6a-70759cbb5e83 |  MicrosoftAzureRedisCache  |
 |b8340c3b-9267-498f-b21a-15d5547fd85e |  Hyper-V Recovery Manager  |
 |abfa0a7c-a6b6-4736-8310-5855508787cd |  Microsoft.Azure.WebSites  |
-|c44b4083-3bb0-49c1-b47d-974e53cbdf3c |  IbizaPortal  |
+|c44b4083-3bb0-49c1-b47d-974e53cbdf3c |  IbizaPortal (Azure Portal I think) |
 |905fcf26-4eb7-48a0-9ff0-8dcc7194b5ba |  Sway  |
 |b10686fd-6ba8-49f2-a3cd-67e4d2f52ac8 |  NovoEd  |
 |c606301c-f764-4e6b-aa45-7caaaea93c9a |  OfficeStore  |
@@ -296,3 +296,4 @@
 |3befd9dc-dfb4-4df9-a029-739b8b9b95ff | Cisco Webex |
 |ab9b8c07-8f02-4f72-87fa-80105867a763 | Unknown |
 |aed8c6c1-22ce-466f-8d04-81daba240b0f | Unknown |
+|6bcc5848-c73a-4953-9066-9ceab1f5256  | Fresh Service ITSM |

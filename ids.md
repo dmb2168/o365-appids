@@ -302,3 +302,4 @@
 |b52893c8-bc2e-47fc-918b-77022b299bbc|PowerBI related|
 |a8f7a65c-f5ba-4859-b2d6-df772c264e9d|PowerApps|
 |871c010f-5e61-4fb1-83ac-98610a7e9110|PowerBI related|
+|09213cdc-9f30-4e82-aa6f-9b6e8d82dab3|MS Tech Comm|

@@ -297,3 +297,8 @@
 |ab9b8c07-8f02-4f72-87fa-80105867a763 | Unknown |
 |aed8c6c1-22ce-466f-8d04-81daba240b0f | Unknown |
 |6bcc5848-c73a-4953-9066-9ceab1f5256  | Fresh Service ITSM |
+|fdf9885b-dd37-42bf-82e5-c3129ef5a302| ADAL related|
+|e462442e-6682-465b-a31f-652a88bfbe51|Microsoft Events|
+|b52893c8-bc2e-47fc-918b-77022b299bbc|PowerBI related|
+|a8f7a65c-f5ba-4859-b2d6-df772c264e9d|PowerApps|
+|871c010f-5e61-4fb1-83ac-98610a7e9110|PowerBI related|

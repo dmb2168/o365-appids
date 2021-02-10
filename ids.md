@@ -305,6 +305,6 @@
 |09213cdc-9f30-4e82-aa6f-9b6e8d82dab3|MS Tech Comm|
 |08e18876-6177-487e-b8b5-cf950c1e598c|Sharepoint web client extensibility|
 |12128f48-ec9e-42f0-b203-ea49fb6af367 |MS teams PowerShell|
-
+|74658136-14ec-4630-ad9b-26e160ff0fc6|"hidden" Azure AD API|
 
 
